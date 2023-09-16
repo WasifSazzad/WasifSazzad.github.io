@@ -1,10 +1,9 @@
 --- 
 layout: page
-title : Portfolio 
-permalink: /portfolio/
-subtitle: "Projects I am working on" 
+title : People 
+permalink: /People/
+subtitle: "Research personnel in the lab" 
 feature-img: "assets/img/pexels/computer.jpeg"
-tags: [Page]
 ---
 
 {% include portfolio.html %}
