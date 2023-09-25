@@ -1,0 +1,15 @@
+<!-- Portfolio Grid Section -->
+<div class="portfolio2-grid">
+    {% for item in site.portfolio2 %}
+    <div class="portfolio2-cell">
+        <a class="portfolio2-link" data-keyboard="true" href="{{ item.url | relative_url }}">
+            <div class="caption" title="{{ item.title }}">
+                <div class="caption-content">
+                    <i class="fas fa-search-plus fa-5x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="{{ item.img | relative_url }}">
+        </a>
+    </div>
+    {% endfor %}
+</div>
