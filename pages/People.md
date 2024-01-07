@@ -46,7 +46,7 @@ Links: [LinkedIn](https://www.linkedin.com/in/mehlil-ahmed-b80921132/)
 ---
 <div style="text-align: justify">Wasif received his B.Sc in Mechanical Engineering from Bangladesh University of Engineering and Technology (BUET). He has a M.S. in Mechanical Engineering and currently pursuing a Ph.D. degree specializing in developing efficient algorithms for particle cluster triangulation and visualization based on physical interactions. He has excellent experience working with C/C++ and Python with a decent knowledge of data structures and algorithms. The goal of his research right now is to create elasticity inspired compact unfolding of 3D shapes. This type of unfolding will open doors for efficient deployable structures design. </div>
 \
-Favorite things to do:	     Soccer, Competitive Programming\
+Favorite things to do:	     Soccer, Hiking, Competitive Programming\
 Links: [LinkedIn](https://www.linkedin.com/in/shah-wasif-sazzad/)
 
 
@@ -54,7 +54,7 @@ Links: [LinkedIn](https://www.linkedin.com/in/shah-wasif-sazzad/)
 
 ### Augusto Devaldo Marques
 ---
-<img style="float: right;" src="../../assets/img/people/augusto.jpg">
+<img style="float: right;" src="../../assets/img/people/augusto.jpg" width="10%" height="10%">
 
 ---
 Augusto text
@@ -68,17 +68,13 @@ Links:
 ---
 
 ### Uditha Weerasinghage
----
-### ![Uditha](../../assets/img/people/uditha.jpg)
+<img style="float: right;" src="../../assets/img/people/uditha.png" width="42%" height="42%">
 
 ---
-Uditha text
-
----
-
-Favorite things to do:	   
-
-Links: 
+<div style="text-align: justify">Uditha read for his B.Sc and M.Sc in Engineering at University of Moratuwa, Sri Lanka. For his undergraduate thesis, he worked on homogenization of woven composites for deployable space structures using multiscale modeling techniques. For masters thesis, he investigated the non-linear bending behaviour of ultra thin woven composites at the meso-mechaniocal scale. Currently, he is reading for his Ph.D in Biomedical Engineering. The goal of his research is to investigate the ventricular motion in active contraction and reveal how cellular and meso-scale changes reflected in ventricular disfunction. </div>
+\
+Favorite things to do:	Reading, Traveling, Bike touring\   
+Links: [LinkedIn](https://www.linkedin.com/in/udithadweerasinghe/), [Google Scholer](https://scholar.google.com/citations?hl=en&user=WVJMR90AAAAJ)
 
 ---
  
@@ -86,17 +82,24 @@ Links:
 ## Undergraduate Students
 ---
 ### Jonathan Gitzendanner
----
-### ![Jonathan](../../assets/img/people/Jonathan.jpg)
+<img style="float: right;" src="../../assets/img/people/jonathan.png" width="42%" height="42%">
 
 ---
-Jonathan text
+<div style="text-align: justify">Jonathan is a senior Aerospace Engineering Undergraduate Student and Burnett Honors College Scholar at the University of Central Florida. His background focuses on multiphase fluid dynamics with experience in hydrodynamic modeling and reactive compressible granular flows. His current research studies methods for drag reduction in kayaks with the goal of designing a better polo kayak. </div>
+\
+Favorite things to do:	Rock Climbing, Backpacking, Kayaking, Cooking \
+Links: [LinkedIn](https://www.linkedin.com/in/jonathan-gitzendanner/),  [Google Scholar](https://scholar.google.com/citations?user=jJcHNGMAAAAJ&hl=en)
 
 ---
 
-Favorite things to do:	   
+### Sarah Bulger
+<img style="float: right;" src="../../assets/img/people/sarah.png" width="40%" height="40%">
 
-Links: 
+---
+<div style="text-align: justify">Sarah is a senior mechanical engineering student at the University of Central Florida. She hopes to work in the biomedical engineering field. She is completing an undergraduate research thesis through UCF’s Burnett Honors College that links the cardiac structure at the micro, meso, and macro scale. She’s also helping work on a liquid bi-propellant rock with UCF’s Knights Experimental Rocketry club that is estimated to be 15 ft tall and launch to 10,000 ft. </div>
+\
+Favorite things to do:	Baking and taking care of my plants \
+Links: [LinkedIn](www.linkedin.com/in/sarah-bulger-aa8a41293)
 
 ---
 

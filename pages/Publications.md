@@ -2,5 +2,5 @@
 layout: page
 title: Publications
 permalink: /Publications/
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/pexels/publication.jpg"
 ---

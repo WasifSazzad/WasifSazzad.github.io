@@ -1,16 +1,13 @@
 ---
 layout: post
-title: Tech Stuff example
+title: Lab News
 color: rgb(250, 50, 50)
 feature-img: "assets/img/feature-img/circuit.jpeg"
 thumbnail: "assets/img/thumbnails/feature-img/circuit.jpeg"
 tags: [Mermaid, Highlight, Markdown]
 ---
 
-Let's demo some code snippet, with some mermaid diagrams.
-Because if you put some code in your blog, you would at least make it:
-1. Searchable
-2. Good-looking
+Lab related news will be shown on the home page.
 
 ## Search on code
 
