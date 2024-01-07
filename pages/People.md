@@ -8,7 +8,9 @@ feature-img: "assets/img/pexels/peoplepic.jpg"
 
 ---
 
-## Principal Investigator
+<div class="header" style="text-align:center">
+  <h2>Principal Investigator</h2>
+</div>
 
 ---
 
@@ -25,7 +27,9 @@ Links: [Google Scholar](https://scholar.google.com/citations?user=caVccQEAAAAJ&h
 
 
 ---
-## Graduate Students
+<div class="header" style="text-align:center">
+  <h2>Graduate Students</h2>
+</div>
 ---
 ### Mehlil Ahmed
 
@@ -79,10 +83,12 @@ Links: [LinkedIn](https://www.linkedin.com/in/udithadweerasinghe/), [Google Scho
 ---
  
 ---
-## Undergraduate Students
+<div class="header" style="text-align:center">
+  <h2>Undergraduate Students</h2>
+</div>
 ---
 ### Jonathan Gitzendanner
-<img style="float: right;" src="../../assets/img/people/jonathan.png" width="42%" height="42%">
+<img style="float: right;" src="../../assets/img/people/jonathan.png" width="35%" height="35%">
 
 ---
 <div style="text-align: justify">Jonathan is a senior Aerospace Engineering Undergraduate Student and Burnett Honors College Scholar at the University of Central Florida. His background focuses on multiphase fluid dynamics with experience in hydrodynamic modeling and reactive compressible granular flows. His current research studies methods for drag reduction in kayaks with the goal of designing a better polo kayak. </div>
@@ -104,7 +110,9 @@ Links: [LinkedIn](www.linkedin.com/in/sarah-bulger-aa8a41293)
 ---
 
 ---
-## Past Students
+<div class="header" style="text-align:center">
+  <h2>Past Students</h2>
+</div>
 
 ---
 ### Mohammad Tanjib Rahman (Graduate)
