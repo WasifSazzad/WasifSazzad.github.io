@@ -49,28 +49,31 @@ Links: [LinkedIn](https://www.linkedin.com/in/mehlil-ahmed-b80921132/)
 <div style="text-align: justify">Wasif received his B.Sc in Mechanical Engineering from Bangladesh University of Engineering and Technology (BUET). He has a M.S. in Mechanical Engineering and currently pursuing a Ph.D. degree specializing in developing efficient algorithms for particle cluster triangulation and visualization based on physical interactions. He has excellent experience working with C/C++ and Python with a decent knowledge of data structures and algorithms. The goal of his research right now is to create elasticity inspired compact unfolding of 3D shapes. This type of unfolding will open doors for efficient deployable structures design. </div>
 <br />
 Favorite things to do:	     Soccer, Hiking, Competitive Programming\
-Links: [LinkedIn](https://www.linkedin.com/in/shah-wasif-sazzad/)
+Links: [LinkedIn](https://www.linkedin.com/in/shah-wasif-sazzad/), [Google Scholar](https://scholar.google.com/citations?user=YZSoh14AAAAJ&hl=en)
 
 ---
 
 ### Augusto Devaldo Marques
 ---
-<img style="float: right;" src="../../assets/img/people/augusto.jpg" width="10%" height="10%">
-
----
-Augusto text
-
----
-
-Favorite things to do:	   
-
+<img style="float: right;" src="../../assets/img/people/augusto.png" width="38%" height="38%">
+<br />
+<div style="text-align: justify">Augusto received his B. Sc. and M.S. in Mechanical Engineering from the Federal University of Rio Grande do Sul (UFRGS), Brazil. 
+His Ph.D. research includes cardiac kinematics, finite element analysis, and machine learning with the goal of building patient-specific heart models. </div>
+<br />
+<br />
+Favorite things to do:	     \
 Links: 
+<br />
+<br />
+<br />
+<br />
 
 ---
 
 ### Uditha Weerasinghage
 ---
 <img style="float: right;" src="../../assets/img/people/uditha.png" width="42%" height="42%">
+<br />
 <div style="text-align: justify">Uditha read for his B.Sc and M.Sc in Engineering at University of Moratuwa, Sri Lanka. For his undergraduate thesis, he worked on homogenization of woven composites for deployable space structures using multiscale modeling techniques. For masters thesis, he investigated the non-linear bending behaviour of ultra thin woven composites at the meso-mechaniocal scale. Currently, he is reading for his Ph.D in Biomedical Engineering. The goal of his research is to investigate the ventricular motion in active contraction and reveal how cellular and meso-scale changes reflected in ventricular disfunction. </div>
 <br />
 Favorite things to do:	Reading, Traveling, Bike touring
@@ -88,6 +91,7 @@ Links: [LinkedIn](https://www.linkedin.com/in/udithadweerasinghe/), [Google Scho
 ### Jonathan Gitzendanner
 ---
 <img style="float: right;" src="../../assets/img/people/jonathan.png" width="40%" height="40%">
+<br />
 <div style="text-align: justify">Jonathan is a senior Aerospace Engineering Undergraduate Student and Burnett Honors College Scholar at the University of Central Florida. His background focuses on multiphase fluid dynamics with experience in hydrodynamic modeling and reactive compressible granular flows. His current research studies methods for drag reduction in kayaks with the goal of designing a better polo kayak. </div>
 <br />
 Favorite things to do:	Rock Climbing, Backpacking, Kayaking, Cooking \
